@@ -1,3 +1,7 @@
+<p align="center">
+  <img src= (![Uploading heroimg-main.jpg…])
+ width="150" height="150" style="border-radius: 50%;" alt="Samuel Adeola" />
+</p>
 <h1 align="center">Hi, I'm Samuel Adeola 👋</h1>
 <p align="center">💻 Full-stack Developer | 🛠 Passionate about building user-friendly web experiences | 🌱 Lifelong Learner
 </p>
@@ -7,9 +11,9 @@
 ### 💻 About Me
 
 - 🌍 Based in Nigeria 🇳🇬  
-- 🌱 Currently learning: *Next.js, TypeScript, and backend development with Node.js*
+- 🌱 Currently learning: *Next.js, TypeScript*
 - 🔭 Working on: Projects that combine functionality with beautiful design
-- 🎯 Looking for junior frontend roles, freelance projects, and mentorship opportunities
+- 🎯 Looking for junior fullstack roles, freelance projects,intership and mentorship opportunities
 
 ---
 
@@ -30,7 +34,7 @@
 
 ### 🧠 Projects
 
-#### 🍔 [Eggy’s Place – Full-Stack Burger Shop]()
+#### 🍔 [Eggy’s Place – Full-Stack Burger Shop](https://github.com/samadeola1/eggys-place-project)
 A fully responsive burger e-commerce site built with React, Node.js, and MongoDB. Includes dynamic cart, category filtering, and "you might also like" suggestions.
 
 
@@ -38,9 +42,9 @@ A fully responsive burger e-commerce site built with React, Node.js, and MongoDB
 
 ### 📫 How to Reach Me
 
-- 💼 [)
-- 📬 Email: @email.com
-- 🌐 Portfolio: ()
+- 💼 (coming soon)
+- 📬 Email: oroguns28@email.com
+- 🌐 Portfolio: (coming soon)
 
 ---
 
