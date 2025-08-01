@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://res.cloudinary.com/dd9nujmdt/image/upload/v1753978247/heroimg-main_tlb4pf.jpg" width="150" height="150" style="border-radius: 50%;" alt="Samuel Adeola" />
-</p>
 
 <h1 align="center">Hi, I'm Samuel Adeola 👋</h1>
 <p align="center">💻 Full-stack Developer | 🛠 Passionate about building user-friendly web experiences | 🌱 Lifelong Learner
