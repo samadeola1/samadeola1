@@ -8,9 +8,9 @@
 ### 💻 About Me
 
 - 🌍 Based in Nigeria 🇳🇬  
-- 🌱 Currently learning: *Next.js, TypeScript*
+- 🌱 Currently learning: *Three.js, Framer*
 - 🔭 Working on: Projects that combine functionality with beautiful design
-- 🎯 Looking for junior fullstack roles, freelance projects,intership and mentorship opportunities
+- 🎯 Looking for fullstack roles, freelance projects,intership and mentorship opportunities
 
 ---
 
@@ -19,6 +19,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
